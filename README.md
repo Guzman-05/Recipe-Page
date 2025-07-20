@@ -9,7 +9,7 @@ Esta es mi solución al reto [Recipe page](https://www.frontendmentor.io/challen
 ## 🔗 Enlaces
 
 - Repositorio: [GitHub Repo](https://github.com/Guzman-05/Recipe-Page)
-- Sitio en vivo: [Ver página](https://tuusuario.github.io/recipe-page)
+- Sitio en vivo: [Ver página](https://guzman-05.github.io/Recipe-Page/)
 
 ## 🛠️ Tecnologías usadas
 
