@@ -1,0 +1,77 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+    font-family: 'Outfit', Arial, sans-serif;
+}
+
+.container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+img.recipe-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.recipe-details {
+    background-color:hsla(334, 56%, 92%, 0.773) ;
+    padding: 16px;
+    margin-top: 16px;
+    border-radius: 8px;
+    color: hsl(30, 10%, 34%)
+
+}
+
+h4{
+    color: hsl(332, 51%, 32%);
+}
+
+h1, h3 {
+    font-family: 'Young Serif', serif;
+}
+
+h3 {
+    color: hsl(14, 45%, 36%);
+}
+
+p, ul, ol {
+    color: hsl(30, 10%, 34%);
+    font-family: 'Outfit', Arial, sans-serif;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-family: 'Outfit', Arial, sans-serif;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 12px 16px;
+    text-align: left;
+}
+
+th {
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+}
+
+td {
+    background-color: white;
+    color: hsl(30, 10%, 34%);
+}
+
+tr:not(:last-child) td, tr:not(:last-child) th {
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+}
+
+
