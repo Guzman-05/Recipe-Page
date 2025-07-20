@@ -74,4 +74,12 @@ tr:not(:last-child) td, tr:not(:last-child) th {
     border-bottom: 1px solid hsl(30, 18%, 87%);
 }
 
+footer {
+    text-align: center;
+    margin-top: 32px;
+    padding: 16px;
+    background-color: hsl(31, 30%, 76%);
+    border-radius: 0 0 8px 8px;
+}
+
 
